@@ -4,9 +4,9 @@ title: Hello gays - dongzhichuyilai
 date: 2019-10-13 00:46:24.000000000 +09:00
 ---
 
-#### What's this
+#### 改了一下。
 
-[dongzhichuyilai](https://github.com/onevcat/vno-jekyll) is just a novice.The other theme just like [Jekyll](http://jekyllrb.com). It is a port of famous Ghost theme [vno](https://github.com/onevcat/vno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
+[dongzhichuyilai](https://github.com/onevcat/vno-jekyll) is just a novice.这个主题是这个人的--> [Jekyll](http://jekyllrb.com). 可以这么说，这个名叫 Ghost theme [vno](https://github.com/onevcat/vno) 最初是起源于 [Dale Anthony's Uno](https://github.com/daleanthony/uno).
 
 #### Usage
 
@@ -21,7 +21,7 @@ Your site with `Vno Jekyll` enabled should be accessible in http://127.0.0.1:400
 
 For more information about Jekyll, please visit [Jekyll's site](http://jekyllrb.com).
 
-#### Configuration
+#### Configuration(布局)
 
 All configuration could be done in `_config.yml`. Remember you need to restart to serve the page when after changing the config file. Everything in the config file should be self-explanatory.
 
