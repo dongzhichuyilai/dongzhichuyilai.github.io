@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample Post
+title: Sample Post(下面没改了，大家自己看一下)
 date: 2016-02-15 15:32:24.000000000 +09:00
 ---
 
